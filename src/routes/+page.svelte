@@ -197,7 +197,7 @@
 		<div class="flex justify-center space-x-2">
 			<a
 				class="btn card variant-filled-primary card-hover"
-				href="discord"
+				href="https://discord.gg/pGUyCEAq"
 				target="_blank"
 				rel="noreferrer"
 			>
