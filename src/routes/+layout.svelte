@@ -66,7 +66,7 @@
 				
 				<a
 					class="btn btn-sm variant-ghost-surface"
-					href="https://discord.gg/PDd5XGc7"
+					href="https://discord.gg/pGUyCEAq"
 					target="_blank"
 					rel="noreferrer"
 				>
