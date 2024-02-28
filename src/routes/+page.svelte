@@ -57,7 +57,7 @@
 								</h3>
 								<article>
 									<p>
-										Emploro Labs boosts your performance immensely with its soon-to-be huge
+										Emploro Labs boosts your performance immensely with its massive
 										selection of tweaks, debloats, optimizations, and modifications without lowering
 										graphical fidelity.
 									</p>
@@ -124,12 +124,12 @@
 					detailed descriptions for each tweak, you can learn with my detailed documentation and my
 					detailed descriptions. Beginners have an oriented mode made for you if you don't have time
 					to read or are not familiar with tweaks. You may also be cautious about power consumption
-					which can be hard to ensure your appling tweaks that don't modify power settings. If this
+					which can be hard to ensure you're applying tweaks that don't modify power settings. If this
 					is your case Simplified mode is just ready for you to hit start on the tweaking journey.
 					Once you are ready I strongly recommend you learn about each tweak. Let's dive deeper into
-					why exactly would you want to learn to use the advanced mode. Advanced mode has a massive
+					why exactly would you want to learn to use the advanced mode? Advanced mode has a massive
 					selection of tweaks and power adjusting tweaks everything simplified mode adjusts can be
-					found in advanced mode. Advanced mode has a library of tweaks and optimisations you can
+					found in advanced mode. Advanced mode has a library of tweaks and optimizations you can
 					apply while simplified mode automatically applies settings that will suit beginners. As it
 					automatically applies to suit any beginner, Emploro Labs Simplified mode strives for the
 					best security and efficiency. With these changes simplified mode excludes possibly
@@ -139,7 +139,7 @@
 					security may be risky if not careful. Advanced mode is great for advanced learners as you
 					choose if you want certain things enabled or disabled. Emploro Lab's advanced mode can be
 					drastically faster than the simplified mode even without disabling security or features.
-					Emploro Labs is coming March of 2024.
+					Emploro Labs is coming in March of 2024.
 				</h3>
 			</div>
 		</div>
@@ -175,8 +175,8 @@
 		</h1>
      
 		<h3 class="h3">
-			Customize your themes with various backdrops and themes to suite your liking.
-            Choose your language freeley.
+			Customize your themes with various backdrops and themes to suit your liking.
+            Choose your language freely.
 		</h3>
 
 
